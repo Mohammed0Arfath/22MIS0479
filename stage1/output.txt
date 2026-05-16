@@ -1,0 +1,16 @@
+Requesting auth token...
+Fetching notifications...
+Total notifications fetched: 20
+
+Top notifications (priority inbox):
+1. [Placement] Eli Lilly and Company hiring — 2026-05-16 08:44:32 (ID: f1a8f72c-3b0d-4922-ac11-f8250b743288)
+2. [Placement] Amgen Inc. hiring — 2026-05-16 07:45:49 (ID: 09d2931b-7728-4144-82c2-01ec3964674f)
+3. [Placement] Booking Holdings Inc. hiring — 2026-05-16 03:43:37 (ID: acb2fc62-ca51-461b-ad4d-e1d9d806c2d5)
+4. [Placement] TSMC hiring — 2026-05-15 23:45:05 (ID: a2abfdf2-99e9-4247-b6c6-aaf2f1672b9b)
+5. [Placement] Tesla Inc. hiring — 2026-05-15 20:15:38 (ID: da93c382-bc60-4942-81d2-317b1b6ddc16)
+6. [Placement] Meta Platforms Inc. hiring — 2026-05-15 17:14:54 (ID: 95dd0260-47c1-45b3-9f57-cd6f81c5e263)
+7. [Placement] Apple Inc. hiring — 2026-05-15 16:46:33 (ID: a53fe3be-eaa3-4030-9190-83a1005b94f7)
+8. [Placement] Marriott International Inc. hiring — 2026-05-15 14:15:27 (ID: 2e057507-f9ea-48a0-b46e-0702c4737963)
+9. [Result] internal — 2026-05-16 07:44:21 (ID: 038e6df6-e699-472c-a383-bfb3b317fe5f)
+10. [Result] project-review — 2026-05-16 07:44:10 (ID: 67e623e1-49c8-46a0-8f33-cbc95bfad64b)
+
