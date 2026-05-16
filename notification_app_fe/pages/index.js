@@ -39,7 +39,7 @@ export default function Index({ notifications }){
       <div className="topbar">
         <h2>All Notifications</h2>
         <div className="controls">
-          <Link href="/priority"><a className="btn">Priority Inbox</a></Link>
+          <Link href="/priority" className="btn">Priority Inbox</Link>
         </div>
       </div>
 
@@ -55,9 +55,10 @@ export default function Index({ notifications }){
 export async function getServerSideProps(){
   const fs = require('fs')
   const path = require('path')
-  const root = path.resolve(process.cwd(), '..', '..') // project root C:\Users\moham\Afford
-  // token path relative to repo root
-  const tokenPath = path.join(root, 'stage1', 'token.json')
+  // compute repository root from the frontend folder (one level up)
+  const root = path.resolve(process.cwd(), '..') // project root C:\Users\moham\Afford
+  // token may be stored under notification_app_be/stage1/token.json (repo reorganized)
+  const tokenPath = path.join(root, 'notification_app_be', 'stage1', 'token.json')
   let token = null
   try{
     const raw = fs.readFileSync(tokenPath, 'utf8')
