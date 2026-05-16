@@ -46,4 +46,8 @@ Notes:
 - `logging_middleware/index.js`
 - `notification_app_fe/pages/index.js` and `notification_app_fe/pages/priority.js`
 
-If you'd like, I can add frontend screenshots (desktop + mobile) next — tell me when you're ready and I'll capture and commit them.
+<img width="951" height="727" alt="image" src="https://github.com/user-attachments/assets/ce2c5bb9-abaf-42a2-8726-551f1e704b51" />
+
+<img width="930" height="586" alt="image" src="https://github.com/user-attachments/assets/2205cd85-0ab8-47fd-a9d0-108154559670" />
+
+
